@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LabCinco</string>
+    <string name="title_pizza_screen">Pizza Shop</string>
+    <string name="text_choose_pizza_size">Choose your piza size</string>
+    <string name="text_choose_topics">Choose your topics</string>
+    <string name="text_radioButton_small">Small(5$)</string>
+    <string name="text_radioButton_medium">Medium(7$)</string>
+    <string name="text_radioButton_large">Large(9$)</string>
+    <string name="text_checkButton_onions">Onions(1$)</string>
+    <string name="text_checkButton_olives">Olives(2$)</string>
+    <string name="text_checkButton_tomatoes">tomatoes(3)</string>
+</resources>
